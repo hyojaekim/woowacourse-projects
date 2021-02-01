@@ -25,9 +25,9 @@
 > 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 ```
 
-| 프로젝트 이름 | 주제 | 코드 | 위키 | 운영 서비스 |
-| :---: | :---: | :---: | :---: | :---: |
-| **우아크루 (WoowaCrew)** | **우아한테크코스 커뮤니티** | **[링크](https://github.com/WoowaCrew/WoowaCrew/tree/develop)** | **[링크](https://github.com/WoowaCrew/WoowaCrew/wiki)** | **[서비스 이동](https://woowacrew.com/)** |
+| 프로젝트 이름 | 주제 | 코드 | 위키 |
+| :---: | :---: | :---: | :---: |
+| **우아크루 (WoowaCrew)** | **우아한테크코스 커뮤니티** | **[링크](https://github.com/WoowaCrew/WoowaCrew/tree/develop)** | **[링크](https://github.com/WoowaCrew/WoowaCrew/wiki)** |
 
 <br/><br/>
 
